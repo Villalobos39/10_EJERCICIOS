@@ -1,0 +1,7 @@
+D:\EJERCICIOS\7.VILLALOBOS\ArbolG\bin\Debug\ArbolG.exe.config
+D:\EJERCICIOS\7.VILLALOBOS\ArbolG\bin\Debug\ArbolG.exe
+D:\EJERCICIOS\7.VILLALOBOS\ArbolG\bin\Debug\ArbolG.pdb
+D:\EJERCICIOS\7.VILLALOBOS\ArbolG\obj\Debug\ArbolG.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS\7.VILLALOBOS\ArbolG\obj\Debug\ArbolG.exe
+D:\EJERCICIOS\7.VILLALOBOS\ArbolG\obj\Debug\ArbolG.pdb
+D:\EJERCICIOS\7.VILLALOBOS\ArbolG\obj\Debug\ArbolG.csprojAssemblyReference.cache
