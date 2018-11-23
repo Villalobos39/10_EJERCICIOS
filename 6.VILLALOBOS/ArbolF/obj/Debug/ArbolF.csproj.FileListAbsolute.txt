@@ -1,0 +1,7 @@
+D:\EJERCICIOS\6.VILLALOBOS\ArbolF\bin\Debug\ArbolF.exe.config
+D:\EJERCICIOS\6.VILLALOBOS\ArbolF\bin\Debug\ArbolF.exe
+D:\EJERCICIOS\6.VILLALOBOS\ArbolF\bin\Debug\ArbolF.pdb
+D:\EJERCICIOS\6.VILLALOBOS\ArbolF\obj\Debug\ArbolF.csprojAssemblyReference.cache
+D:\EJERCICIOS\6.VILLALOBOS\ArbolF\obj\Debug\ArbolF.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS\6.VILLALOBOS\ArbolF\obj\Debug\ArbolF.exe
+D:\EJERCICIOS\6.VILLALOBOS\ArbolF\obj\Debug\ArbolF.pdb

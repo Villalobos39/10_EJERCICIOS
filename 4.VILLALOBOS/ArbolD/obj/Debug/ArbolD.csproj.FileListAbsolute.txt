@@ -1,0 +1,6 @@
+D:\EJERCICIOS\4.VILLALOBOS\ArbolD\bin\Debug\ArbolD.exe.config
+D:\EJERCICIOS\4.VILLALOBOS\ArbolD\bin\Debug\ArbolD.exe
+D:\EJERCICIOS\4.VILLALOBOS\ArbolD\bin\Debug\ArbolD.pdb
+D:\EJERCICIOS\4.VILLALOBOS\ArbolD\obj\Debug\ArbolD.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS\4.VILLALOBOS\ArbolD\obj\Debug\ArbolD.exe
+D:\EJERCICIOS\4.VILLALOBOS\ArbolD\obj\Debug\ArbolD.pdb
