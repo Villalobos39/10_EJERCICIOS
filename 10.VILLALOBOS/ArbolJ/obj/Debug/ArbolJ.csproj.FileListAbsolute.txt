@@ -1,0 +1,6 @@
+F:\EJERCICIOS\10.VILLALOBOS\ArbolJ\bin\Debug\ArbolJ.exe.config
+F:\EJERCICIOS\10.VILLALOBOS\ArbolJ\obj\Debug\ArbolJ.csprojResolveAssemblyReference.cache
+F:\EJERCICIOS\10.VILLALOBOS\ArbolJ\bin\Debug\ArbolJ.exe
+F:\EJERCICIOS\10.VILLALOBOS\ArbolJ\bin\Debug\ArbolJ.pdb
+F:\EJERCICIOS\10.VILLALOBOS\ArbolJ\obj\Debug\ArbolJ.exe
+F:\EJERCICIOS\10.VILLALOBOS\ArbolJ\obj\Debug\ArbolJ.pdb
